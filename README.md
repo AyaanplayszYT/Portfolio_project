@@ -22,6 +22,8 @@ Step 4: Start the development server (with hot reload)
 npm run dev
 Make your edits, test locally, and push — everything updates automatically.
 
+---
+
 ✨ Editing Options
 Option 1: Edit Directly on GitHub
 Quick fixes? No problem.
@@ -40,6 +42,8 @@ Wait a few seconds for setup
 Start editing in your browser
 Commit and push your work when done
 
+---
+
 ⚙️ Tech Stack
 This project runs on a modern and fast stack:
 
@@ -49,6 +53,7 @@ This project runs on a modern and fast stack:
 🧱 shadcn/ui — modern UI components
 🎨 Tailwind CSS — rapid styling
 
+---
 
 🧠 About This Repo
 This repo is managed and maintained by Mistizz911 (Ayaan).
