@@ -10,10 +10,10 @@ A sleek, modern project built with a clean tech stack and optimized for fast dev
 
 ### Step 1: Clone this repository
 
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/AyaanplayszYT/Portfolio_project>
 Step 2: Navigate into your project folder
 
-cd <YOUR_PROJECT_NAME>
+cd Portfoilo_project
 Step 3: Install dependencies
 
 npm install
