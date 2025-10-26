@@ -8,19 +8,22 @@ A sleek, modern project built with a clean tech stack and optimized for fast dev
 
 ## 🔹 Getting Started
 
-### Step 1: Clone this repository
-
-git clone <https://github.com/AyaanplayszYT/Portfolio_project>
-Step 2: Navigate into your project folder
-
-cd Portfoilo_project
-Step 3: Install dependencies
-
-npm install
-Step 4: Start the development server (with hot reload)
-
-npm run dev
-Make your edits, test locally, and push — everything updates automatically.
+1. Clone the repository:
+   ```bash
+   git https://github.com/AyaanplayszYT/Portfolio_project
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Portfoilo_project
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the application:
+   ```bash
+   npm start
+   ```
 
 ---
 
