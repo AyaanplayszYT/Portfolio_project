@@ -58,4 +58,7 @@ Feel free to explore, fork, or contribute. Just keep it clean and give credit wh
 
 — Made by Mistizz911
 
+screenshot
+<img width="1526" height="741" alt="image" src="https://github.com/user-attachments/assets/28cdec70-cda2-41b7-bfaa-cb802b9a8b95" />
+
 
