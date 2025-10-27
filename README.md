@@ -22,7 +22,7 @@ A sleek, modern project built with a clean tech stack and optimized for fast dev
    ```
 4. Start the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
