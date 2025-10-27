@@ -27,12 +27,12 @@ A sleek, modern project built with a clean tech stack and optimized for fast dev
 
 ---
 
-✨ Editing Options
+ Editing Options
 Option 1: Edit Directly on GitHub
 Quick fixes? No problem.
 
 Go to the file you want to edit
-Hit the ✏️ Edit (pencil) icon
+Hit the  Edit (pencil) icon
 Make your changes
 
 Commit and save — done!
@@ -47,7 +47,7 @@ Commit and push your work when done
 
 ---
 
-⚙️ Tech Stack
+ Tech Stack
 This project runs on a modern and fast stack:
 
 ⚡ Vite — lightning-fast build tool
@@ -58,7 +58,7 @@ This project runs on a modern and fast stack:
 
 ---
 
-🧠 About This Repo
+ About This Repo
 This repo is managed and maintained by Mistizz911 (Ayaan).
 
 Feel free to explore, fork, or contribute. Just keep it clean and give credit where it’s due.
