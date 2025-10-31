@@ -47,17 +47,6 @@ Commit and push your work when done
 
 ---
 
- Tech Stack
-This project runs on a modern and fast stack:
-
-⚡ Vite — lightning-fast build tool
-💡 TypeScript — strong typing, fewer bugs
-⚛️ React — component-based UI
-🧱 shadcn/ui — modern UI components
-🎨 Tailwind CSS — rapid styling
-
----
-
  About This Repo
 This repo is managed and maintained by Mistizz911 (Ayaan).
 
