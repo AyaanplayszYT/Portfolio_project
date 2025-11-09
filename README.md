@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Project
+# Portfoillo Template
 
 **Made by Mistizz911 (Ayaan)**
 
@@ -8,26 +8,31 @@ A sleek, modern project built with a clean tech stack and optimized for fast dev
 
 ## 🔹 Getting Started
 
-### Step 1: Clone this repository
+1. Clone the repository:
+   ```bash
+   git https://github.com/AyaanplayszYT/Portfolio_project
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Portfoilo_project
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the application:
+   ```bash
+   npm run dev
+   ```
 
-git clone <YOUR_GIT_URL>
-Step 2: Navigate into your project folder
+---
 
-cd <YOUR_PROJECT_NAME>
-Step 3: Install dependencies
-
-npm install
-Step 4: Start the development server (with hot reload)
-
-npm run dev
-Make your edits, test locally, and push — everything updates automatically.
-
-✨ Editing Options
+ Editing Options
 Option 1: Edit Directly on GitHub
 Quick fixes? No problem.
 
 Go to the file you want to edit
-Hit the ✏️ Edit (pencil) icon
+Hit the  Edit (pencil) icon
 Make your changes
 
 Commit and save — done!
@@ -40,22 +45,17 @@ Wait a few seconds for setup
 Start editing in your browser
 Commit and push your work when done
 
-⚙️ Tech Stack
-This project runs on a modern and fast stack:
+---
 
-⚡ Vite — lightning-fast build tool
-💡 TypeScript — strong typing, fewer bugs
-⚛️ React — component-based UI
-🧱 shadcn/ui — modern UI components
-🎨 Tailwind CSS — rapid styling
-
-
-🧠 About This Repo
+ About This Repo
 This repo is managed and maintained by Mistizz911 (Ayaan).
 
 Feel free to explore, fork, or contribute. Just keep it clean and give credit where it’s due.
 
 
 — Made by Mistizz911
+
+screenshot
+<img width="1526" height="741" alt="image" src="https://github.com/user-attachments/assets/28cdec70-cda2-41b7-bfaa-cb802b9a8b95" />
 
 
